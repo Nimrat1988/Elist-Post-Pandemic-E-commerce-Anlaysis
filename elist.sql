@@ -138,3 +138,13 @@ ranking_cte AS (
 SELECT *
 FROM ranking_cte
 WHERE ranking = 1;
+
+--How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers? 
+--Tables to join customers, orders, order status. calculate time difference between purchase and account creation, group by loyalty program.
+SELECT c.loyalty_program,
+ROUND(AVG(DATE_DIFF(o.purchase_ts, c.created_on, day)),2) AS days_to_purchase,
+ROUND(AVG(DATE_DIFF(o.purchase_ts, c.created_on, month)),2) AS montha_to_purchase,
+FROM `core.customers_orig` AS c
+LEFT JOIN core.orders AS o
+ ON o.customer_id = c.id
+GROUP By 1;
