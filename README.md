@@ -38,30 +38,27 @@ Overall, the dashboard helps identify revenue trends, product performance, custo
 - Revenue declined sharply in 2022, with most months falling below the average.
 - The lowest revenue month was October 2022, at approximately $178K.
 
-Business Interpretation
 The monthly trend suggests the company experienced strong growth through 2020, maintained relatively strong performance in 2021, and then faced a noticeable slowdown in 2022. The decline in 2022 should be investigated further to determine whether it was caused by lower order volume, lower average order value, weaker product demand, marketing channel performance, or increased refunds.
 
 2. Order Count and Average Order Value
-Order count and AOV help explain whether revenue changes were caused by customer demand or customer spending behavior.
-If revenue declines while AOV remains stable, the issue is likely lower order volume.
-If revenue declines while order count remains stable, the issue may be lower customer spending per order.
-The dual-axis chart helps separate revenue performance into two drivers: number of orders and average spend per order.
+- Order count and AOV help explain whether revenue changes were caused by customer demand or customer spending behavior.
+- If revenue declines while AOV remains stable, the issue is likely lower order volume.
+- If revenue declines while order count remains stable, the issue may be lower customer spending per order.
+- The dual-axis chart helps separate revenue performance into two drivers: number of orders and average spend per order.
 
-Business Interpretation
 This analysis helps the business understand whether growth should come from acquiring more customers, increasing repeat purchases, improving pricing strategy, or encouraging larger basket sizes through bundles and upselling.
 
 3. Product Performance
-Revenue was concentrated among a small group of products.
-The top revenue-generating products were:
-27in 4K Gaming Monitor
-Apple AirPods Headphones
-MacBook Air Laptop
-ThinkPad Laptop
-Samsung Charging Cable Pack
-The 27in 4K Gaming Monitor was the highest revenue-generating product.
-High-revenue products should be prioritized for inventory planning, marketing campaigns, and product strategy.
+- Revenue was concentrated among a small group of products.
+- The top revenue-generating products were:
+  27in 4K Gaming Monitor
+  Apple AirPods Headphones
+  MacBook Air Laptop
+  ThinkPad Laptop
+  Samsung Charging Cable Pack
+- The 27in 4K Gaming Monitor was the highest revenue-generating product.
+- High-revenue products should be prioritized for inventory planning, marketing campaigns, and product strategy.
 
-Business Interpretation
 A small group of products is responsible for a large share of total revenue. This creates both an opportunity and a risk. These products should receive strong inventory support and marketing attention, but the company should also avoid becoming too dependent on only a few products.
 
 
