@@ -125,7 +125,7 @@ Refund Reduction Strategy
 Relevant teams: Operations, Product, Customer Support, Quality Assurance
 
 ## Tools Used
-Microsoft Excel: data cleaning, pivot analysis, initial exploration
-BigQuery: SQL querying, data extraction, aggregation, and analysis
-Tableau: dashboard creation and visual analytics
-GitHub: project documentation and portfolio presentation
+- Microsoft Excel: data cleaning, pivot analysis, initial exploration
+- BigQuery: SQL querying, data extraction, aggregation, and analysis
+- Tableau: dashboard creation and visual analytics
+- GitHub: project documentation and portfolio presentation
