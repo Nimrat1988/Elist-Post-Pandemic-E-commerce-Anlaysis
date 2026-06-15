@@ -51,10 +51,10 @@ This analysis helps the business understand whether growth should come from acqu
 3. Product Performance
 - Revenue was concentrated among a small group of products.
 - The top revenue-generating products were:
-  27in 4K Gaming Monitor
-  Apple AirPods Headphones
-  MacBook Air Laptop
-  ThinkPad Laptop
+  27in 4K Gaming Monitor, 
+  Apple AirPods Headphones, 
+  MacBook Air Laptop, 
+  ThinkPad Laptop, 
   Samsung Charging Cable Pack
 - The 27in 4K Gaming Monitor was the highest revenue-generating product.
 - High-revenue products should be prioritized for inventory planning, marketing campaigns, and product strategy.
