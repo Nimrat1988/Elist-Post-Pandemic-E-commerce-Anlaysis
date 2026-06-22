@@ -51,7 +51,7 @@ This project analyzes Elist's transactional data from 2019 to 2022 to answer fou
 
 <img width="2008" height="1173" alt="Order Count and AOV" src="https://github.com/user-attachments/assets/d79cb0d8-380a-4d6c-b246-a197fadc22fb" />
 
-- Order count peaked at 4,019 in November 2020 and fell to a low of 825 by late 2022 — a 79% decline.
+- Order count peaked at 4,019 in November 2020 and fell to a low of 825 by late 2022 - a 79% decline.
 - AOV peaked at $321.50 during the 2020 surge and compressed to $216.09 by 2022 — a 33% drop.
 - In 2022 both metrics declined simultaneously — confirming the revenue decline was demand-driven, not a pricing issue.
 - The 2020 peak was driven by both volume and spend — two tailwinds that both reversed after the pandemic.
@@ -94,12 +94,14 @@ This project analyzes Elist's transactional data from 2019 to 2022 to answer fou
 ## 5. Marketing Channels — The Business Runs on Two Channels
 
 
-<img width="2176" height="214" alt="Marketing Channel Performance" src="https://github.com/user-attachments/assets/8e29e879-1c30-4748-8e97-a0192ad2296b" />
+<img width="754" height="643" alt="Marketing pie chart-2" src="https://github.com/user-attachments/assets/158166bc-88c3-4c29-a1d2-9306b7900b40" />
 
-- Direct channel drives 82.65% of total revenue (~$23M) — overwhelming dominance.
+
+
+- Direct channel drives 82.65% of total revenue (~$23M), overwhelming dominance.
 - Email adds another 11.92% — together they account for 95% of all revenue.
-- Affiliate and social media combined contribute under 5% — their ROI warrants urgent review.
-- The business is heavily dependent on two channels — diversification is a strategic risk to address.
+- Affiliate and social media combined contribute under 5%.
+- The business is heavily dependent on two channels, diversification is a strategic risk to address.
 
 
 ## 6. Product Performance — Four Products Carry the Business
